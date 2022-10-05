@@ -1,5 +1,5 @@
 # Module_ten_challenge
-In this repository we anaylyze clusters of cryptocurrencies by their performance in different time periods by using unsupervised learning. 
+In this repository we anaylyze clusters of cryptocurrencies by their performance in different time periods by using unsupervised learning. We compared the results of the clusters with and without PCA.
 
 ---
 
