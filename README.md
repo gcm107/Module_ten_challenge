@@ -24,7 +24,7 @@ To use this notebook for your own anaylyis, you will:
 - Clone the repository, and open the crypto_investments.ipynb file. 
    - Make sure your working directory is correct!
 - If you would like to use your own data, replace the csv files in the resource folder with your own. 
-- _The image below is based on the data in the "Resources" folder in this repository_
+- _The data is in the "Resources" folder in this repository_
 
 
 ---
